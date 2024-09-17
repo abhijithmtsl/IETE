@@ -35,7 +35,9 @@
             industrial consultancy and training to the aspirants including corporate training.
           </p>
         </div>
-
+      <div> 
+        
+      </div>
         <!-- Right Side - Images -->
         <div class="image-gallery">
           <div class="main-image">
