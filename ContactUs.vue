@@ -12,6 +12,7 @@
       </div>
     </div>
   </div>
+  
   <section class="contact-section">
       <div class="container">
         <div class="contact-content">
@@ -29,6 +30,9 @@
                   <p>support@example.com</p>
                 </div>
                 <div>
+                  <p><strong>Contact Us</strong></p>
+                  <p>+91 9876543210</p>
+                  <p> test commit </p>
                   <p><strong>Contact Us</strong></p>
                   <p>+91 9876543210</p>
                 </div>
